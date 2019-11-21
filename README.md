@@ -1,4 +1,4 @@
-# links
+# Demoscene Resources 
 
 # YouTube channels
 
