@@ -33,11 +33,11 @@ https://t-do.ru/vampedamiga
 
 # Russian Festivals On Telegram
 
-https://t.me/chaosconstructions
+https://t-do.ru/chaosconstructions
 
-https://t.me/CAFe_Demoparty
+https://t-do.ru/CAFe_Demoparty
 
-https://t.me/dihaltdemoparty
+https://t-do.ru/dihaltdemoparty
 
 
 
