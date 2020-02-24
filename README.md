@@ -31,7 +31,7 @@ https://t-do.ru/vampedamiga
 
 
 
-# Russian Festivals On Telegram
+# Russian Demoparty On Telegram
 
 https://t-do.ru/chaosconstructions
 
