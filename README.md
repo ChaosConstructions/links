@@ -16,15 +16,17 @@ https://www.youtube.com/channel/UCSnmbUU8S8XlJ8yZCViC7iw
 
  
 # On Telegram 
-tg://resolve?domain=demoscene_channel
 
-tg://resolve?domain=pcdemomaking
+[tg://resolve?domain=demoscene_channel] (tg://resolve?domain=demoscene_channel)
 
-tg://resolve?domain=speccy_code
+[tg://resolve?domain=pcdemomaking] (tg://resolve?domain=pcdemomaking)
 
-tg://resolve?domain=demoscenetg
+[tg://resolve?domain=speccy_code] (tg://resolve?domain=speccy_code)
 
-tg://resolve?domain=bk0010_11m
+[tg://resolve?domain=demoscenetg] (tg://resolve?domain=demoscenetg)
+
+[tg://resolve?domain=bk0010_11m] (tg://resolve?domain=bk0010_11m)
+
 
 
 
