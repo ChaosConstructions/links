@@ -8,17 +8,26 @@ https://www.youtube.com/user/RevisionParty
 
 https://www.youtube.com/user/AssemblyTV
 
+https://www.youtube.com/user/tubenodeus 
+
 https://www.youtube.com/channel/UC96JVq-z0-0iHAkIkKp1_6w 
 
-https://www.youtube.com/user/tubenodeus 
+https://www.youtube.com/channel/UCSnmbUU8S8XlJ8yZCViC7iw
+
  
 # On Telegram 
-https://t.me/demoscene_channel
+tg://resolve?domain=demoscene_channel
 
-https://t.me/pcdemomaking
+tg://resolve?domain=pcdemomaking
 
-https://t.me/speccy_code
+tg://resolve?domain=speccy_code
 
-https://t.me/demoscenetg
+tg://resolve?domain=demoscenetg
+
+tg://resolve?domain=bk0010_11m
+
+
+
+
 
 
