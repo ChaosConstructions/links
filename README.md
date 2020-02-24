@@ -17,15 +17,17 @@ https://www.youtube.com/channel/UCSnmbUU8S8XlJ8yZCViC7iw
  
 # On Telegram 
 
-<a href="tg://resolve?domain=demoscene_channel"> (tg://resolve?domain=demoscene_channel)</a>
+https://t-do.ru/demoscene_channel
 
-[tg://resolve?domain=pcdemomaking](tg://resolve?domain=pcdemomaking)
+https://t-do.ru/pcdemomaking
 
-[tg://resolve?domain=speccy_code](tg://resolve?domain=speccy_code)
+https://t-do.ru/speccy_code
 
-[tg://resolve?domain=demoscenetg](tg://resolve?domain=demoscenetg)
+https://t-do.ru/demoscenetg
 
-[tg://resolve?domain=bk0010_11m](tg://resolve?domain=bk0010_11m)
+https://t-do.ru/bk0010_11m
+
+https://t-do.ru/vampedamiga
 
 
 
