@@ -29,6 +29,8 @@ https://t-do.ru/bk0010_11m
 
 https://t-do.ru/vampedamiga
 
+https://t-do.ru/speccyflame
+
 
 
 # Russian Demopartys On Telegram
